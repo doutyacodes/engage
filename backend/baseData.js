@@ -1,0 +1,9 @@
+export const baseURL ="https://wowfy.in/doutya-api/api";
+export const baseImgURL ="https://wowfy.in/doutya-api/photos/";
+export const baseVidUrl ="https://wowfy.in/doutya-api/videos/";
+// export const baseURL ="http://192.168.1.3/Zen/Wowfy-api-projects/doutya-api/api";
+// export const baseImgURL ="http://192.168.1.3/Zen/Wowfy-api-projects/doutya-api/photos/";
+// export const baseVidUrl ="http://192.168.1.3/Zen/Wowfy-api-projects/doutya-api/videos/";
+// export const baseURL ="http://172.20.10.4/Zen/Wowfy-api-projects/doutya-api/api";
+// export const baseImgURL ="http://172.20.10.4/Zen/Wowfy-api-projects/doutya-api/photos/";
+// export const baseVidUrl ="http://172.20.10.4/Zen/Wowfy-api-projects/doutya-api/videos/";
