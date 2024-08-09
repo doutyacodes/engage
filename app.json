@@ -68,7 +68,7 @@
       },
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAT9O3i9RtuJZjiJk1ppwqPrMGy8sISG08"
+          "apiKey": "AIzaSyDoo8KJYz06RijlnSE0CTykhJD7yI8Q2QI"
         }
       },
       "permissions": [
@@ -79,10 +79,16 @@
         "android.permission.CAMERA",
         "android.permission.READ_CONTACTS",
         "android.permission.WRITE_CONTACTS"
-      ]
+      ],
+      "package": "com.doutya.engage"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "da882ad0-1099-4cb5-ab6a-490f6eee2c05"
+      }
     }
   }
 }

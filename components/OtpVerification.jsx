@@ -48,7 +48,6 @@ const OtpVerification = () => {
     try {
       setIsLoading(true);
       const confirmation = await auth().signInWithPhoneNumber(phoneWithCode,true);
-      Promise.resolve();
       setConfirm(confirmation);
     } catch (error) {
       console.log("Error sending code: ", error);
